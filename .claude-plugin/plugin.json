@@ -1,0 +1,10 @@
+{
+  "name": "md-viewer",
+  "version": "0.1.0",
+  "description": "Click a markdown file in chat, or run /md <file>, to read it rendered in a pane",
+  "author": { "name": "wdoyle2" },
+  "homepage": "https://github.com/wdoyle2/claude-md-viewer",
+  "repository": "https://github.com/wdoyle2/claude-md-viewer",
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

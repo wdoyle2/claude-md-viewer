@@ -1,0 +1,12 @@
+{
+  "name": "claude-md-viewer",
+  "description": "A Claude Code mod that shows markdown files rendered in a pane",
+  "owner": { "name": "wdoyle2" },
+  "plugins": [
+    {
+      "name": "md-viewer",
+      "source": "./",
+      "description": "Click a markdown file in chat, or run /md <file>, to read it rendered in a pane"
+    }
+  ]
+}
